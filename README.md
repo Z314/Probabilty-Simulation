@@ -1,7 +1,7 @@
 # Probabilty-Simulation
 Probability simulations
 
-Dice rolling simulator for a six sided dice:
+Dice rolling simulator for a six sided dice.
 Instructions for use:
 1. Download and save both Python files in the one folder
 2. Run dice_main.py
